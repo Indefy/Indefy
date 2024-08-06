@@ -10,10 +10,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Indefy&hide_border=true&layout=compact&hide=jupyter%20notebook%2Chtml%2Ccss&count_private=true" alt="Indefy's Most Used Languages">
   </picture>
 </p>
-<p align="center">
+<p align="center" >
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-    <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png" >
+    <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width="25%" height="25%">
   </picture>
 </p>
 <p align="center">
