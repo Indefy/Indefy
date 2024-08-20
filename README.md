@@ -1,5 +1,9 @@
 # Hi I'm Adi Booker <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
+ - [vistaforgehub.cloud](https://vistaforgehub.cloud/)
+ - https://snap-news-client.onrender.com
+ - https://team-sketcher-client.onrender.com
+   
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Indefy&hide_border=true&theme=tokyonight&bg_color=00000000&count_private=true&show_icons=true&hide=contribs%2Cissues&include_all_commits=true">
