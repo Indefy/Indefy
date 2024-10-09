@@ -29,7 +29,7 @@ Hi, I'm a versatile creative Technologist with a passion for building engaging e
   
 **Graphic Design:**
 
-* **Adobe Creative Suite:** Photoshop, Illustrator, InDesign, After Effects, [Add others like Premiere Pro, XD, etc.]
+* **Adobe Creative Suite:** Photoshop, Illustrator, InDesign, After Effects
 
 **Game Development:**
 
