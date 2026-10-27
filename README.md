@@ -9,7 +9,7 @@ I build reliable applications, developer tools, and intelligent workflows — fr
 [![GitHub](https://img.shields.io/badge/GitHub-Indefy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Indefy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adi-booker-29a341169/)
 [![X](https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/AdiBooker)
-[![Website](https://img.shields.io/badge/Website-VistaForge-3458A4?style=flat-square&logo=googlechrome&logoColor=white)](https://vistaforgehub.cloud/)
+[![Website](https://img.shields.io/badge/Website-VistaForge-3458A4?style=flat-square&logo=googlechrome&logoColor=white)](https://vistaforge.xyz/)
 
 </div>
 
@@ -85,6 +85,6 @@ That multidisciplinary foundation continues to influence the way I design interf
 
 **Interested in software engineering, automation, AI tooling, or creative technology?**
 
-[Connect on LinkedIn](https://www.linkedin.com/in/adi-booker-29a341169/) · [Explore my GitHub](https://github.com/Indefy) · [Visit my app](https://vistaforge.xyz//)
+[Connect on LinkedIn](https://www.linkedin.com/in/adi-booker-29a341169/) · [Explore my GitHub](https://github.com/Indefy) · [Visit my app](https://vistaforge.xyz/)
 
 </div>
